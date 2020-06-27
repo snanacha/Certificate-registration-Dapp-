@@ -10,3 +10,7 @@ To register a certificate in the Ethereum blockchain :
 3. Click register 
 
 Boom! Your verified certificate is ready . 
+
+![image](https://user-images.githubusercontent.com/30749584/85924464-1720c580-b8b0-11ea-85c7-9eda0ab3932e.png)
+Here you can see that the amount of ether is less than 100 in the first account. 
+This confirms successful transaction.
